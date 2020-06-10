@@ -5,5 +5,13 @@
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mockito"/>
+	<classpathentry kind="lib" path="libs/_remote.repositories"/>
+	<classpathentry kind="lib" path="libs/m2e-lastUpdated.properties"/>
+	<classpathentry kind="lib" path="libs/mockito-core-3.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="libs/mockito-core-3.3.3-sources.jar.sha1"/>
+	<classpathentry kind="lib" path="libs/mockito-core-3.3.3.jar"/>
+	<classpathentry kind="lib" path="libs/mockito-core-3.3.3.jar.sha1"/>
+	<classpathentry kind="lib" path="libs/mockito-core-3.3.3.pom"/>
+	<classpathentry kind="lib" path="libs/mockito-core-3.3.3.pom.sha1"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
